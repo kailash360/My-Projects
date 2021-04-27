@@ -1,0 +1,237 @@
+/* for navigation bar  */
+
+.navbar {
+    background-color: black;
+    font-size: 20px;
+    width: 100%;
+}
+
+.navbar ul {
+    overflow: auto;
+}
+
+.navbar ul li {
+    float: left;
+    list-style: none;
+    margin: 10px;
+}
+
+.navbar li a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar input {
+    float: right;
+    width: 200px;
+    margin: 10px 20px;
+    border-radius: 30px;
+}
+
+
+/* for image under nav bar  */
+
+#hi {
+    width: 100%;
+}
+
+#hiTxt {
+    position: relative;
+    bottom: 105px;
+    left: 455px;
+    color: white;
+    font-family: "Dela Gothic One";
+    font-size: 60px;
+}
+
+
+/* for home page text about gym  */
+
+#hpTxt {
+    top: 0px;
+    background-color: rgb(0, 53, 53);
+    color: #f0fff9;
+    font-size: 25px;
+    padding: 5px 20px 5px 20px;
+    margin: 0px 0px 10px 0px;
+    font-family: nunito;
+    line-height: 110%;
+}
+
+
+/* services section   */
+
+.service {
+    background-color: rgb(41, 205, 205);
+    color: white;
+    font-family: "cabin";
+    font-size: 23px;
+    margin: 5px 0px 0px 0px;
+    padding-left: 5px;
+    width: 60%;
+}
+
+#s1 {
+    float: left;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+}
+
+#s2 {
+    float: right;
+    text-align: right;
+    padding-right: 10px;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+}
+
+#s3 {
+    float: left;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+}
+
+#s4 {
+    float: right;
+    text-align: right;
+    padding-right: 10px;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+}
+
+
+/* monthly plan section  */
+
+
+/* monthly plan header  */
+
+#phead {
+    position: relative;
+    top: 950px;
+    background-color: #66d784;
+    color: white;
+    width: 100%;
+}
+
+#phead h3 {
+    margin: 0px 0px 20px 0px;
+    padding: 5px 0px 5px 0px;
+    font-size: 40px;
+    font-family: "Lobster two";
+    position: relative;
+    right: 280px;
+}
+
+
+/* monthly plans menu  */
+
+.planLink {
+    text-decoration: none;
+    color: black;
+}
+
+.monthly {
+    margin-top: 20px;
+    position: relative;
+    top: 100px;
+    display: inline-flex;
+    align-content: center;
+}
+
+.plan {
+    background-color: rgb(210, 255, 244);
+    border-radius: 20px;
+    width: 430px;
+    height: 500px;
+    padding: 5px 10px 0px 10px;
+    margin: 10px;
+    font-size: 25px;
+    font-family: "overpass";
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-sizing: border-box;
+}
+
+.plan h2 {
+    text-align: center;
+}
+
+.plan h3 {
+    vertical-align: baseline;
+}
+
+#p1 {
+    float: inline-start;
+    margin-left: 27px;
+}
+
+#p1:hover {
+    transform: scale(1.05);
+    font-weight: bolder;
+}
+
+#p2:hover {
+    transform: scale(1.05);
+    font-weight: bolder;
+}
+
+#p3:hover {
+    transform: scale(1.05);
+    font-weight: bolder;
+}
+
+
+/* end of page  */
+
+.end {
+    position: relative;
+    top: 200px;
+    float: left;
+    background-color: rgb(14, 59, 59);
+    color: rgb(35, 136, 128);
+    width: 100%;
+    font-size: 20px;
+    font-family: "Quattrocento Sans";
+    padding-left: 10px;
+}
+
+.address {
+    float: left;
+    margin: 0px 15px 0px 10px;
+}
+
+.contact {
+    margin: 0px 15px 0px 15px;
+    float: left;
+}
+
+.follow {
+    margin: 0px 15px 0px 20px;
+    float: left;
+}
+
+.feedback {
+    margin: 0px 15px 0px 10px;
+    float: right;
+}
+
+.socialmedia {
+    margin: 0px 5px 0px 0px;
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+}
+
+#fdbck {
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+#sendfdbck {
+    background-color: black;
+    color: rgb(181, 236, 236);
+    font-size: 15px;
+    border: none;
+    position: relative;
+    top: 10px;
+}
