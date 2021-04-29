@@ -1,0 +1,85 @@
+.clock {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.box {
+    width: 40%;
+    height: 60%;
+    padding-top: 0.5%;
+    padding-bottom: 0.8%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(255, 0, 0);
+    color: azure;
+    font-weight: bolder;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.29);
+}
+
+#name {
+    font-family: "Metrophobic";
+    font-size: 280%;
+    font-weight: bold;
+}
+
+.type1 {
+    background-color: rgb(0, 0, 0);
+    color: azure;
+    /* dimensions of div container */
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+    width: 75%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-bottom: 1.2%;
+    /* fonts  */
+    font-size: 150%;
+    font-weight: bold;
+    font-family: "Heebo";
+    text-align: center;
+    /* borders and shadows */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.29);
+}
+
+#IndLocation {
+    font-size: 180%;
+}
+
+.type2 {
+    background-color: rgb(0, 0, 0);
+    color: azure;
+    /* dimensions of div container */
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+    width: 85%;
+    padding-left: 5.1%;
+    padding-right: 5.1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 1%;
+    /* fonts  */
+    font-size: 150%;
+    font-weight: bold;
+    font-family: "Heebo";
+    text-align: center;
+    /* borders and shadows */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.29);
+}
+
+#UTCLocation {
+    font-size: 180%;
+}
