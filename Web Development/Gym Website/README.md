@@ -5,3 +5,5 @@
 - CSS
 
 _This was my first project in the field of Web Development; a simple homepage made from scratch using HTML and CSS only. I continued to learn JavaScript and worked on more projects._
+
+Host Link : https://kailash360.github.io/GymHomepage.github.io/
