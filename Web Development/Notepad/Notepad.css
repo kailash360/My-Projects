@@ -1,0 +1,113 @@
+#input-container {
+    width: 600px;
+    height: 300px;
+    position: relative;
+    left: 400px;
+    margin-top: 5%;
+    padding: 10px 15px 10px 5px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+#make-note {
+    position: relative;
+    margin: 5px 0px 15px 25px;
+    font-size: 30px;
+    font-family: "Balsamiq Sans";
+}
+
+#inputField {
+    height: 170px;
+    width: 550px;
+    margin: 2px 0px 2px 25px;
+    padding: 5px;
+    resize: none;
+    border: 1px solid grey;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: "Lexend";
+}
+
+#addNoteBtn {
+    margin-top: 11px;
+    margin-left: 25px;
+    padding: 7px;
+    background-color: rgb(126, 126, 255);
+    color: white;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+#addNoteBtn:hover {
+    background-color: blue;
+}
+
+#clearAllBtn {
+    margin-top: 11px;
+    margin-left: 367px;
+    padding: 7px;
+    background-color: rgb(255, 82, 82);
+    color: white;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+#clearAllBtn:hover {
+    background-color: rgb(212, 0, 0);
+}
+
+#note-container {
+    position: relative;
+    left: 350px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin-top: 25px;
+}
+
+.note {
+    width: 150px;
+    height: 150px;
+    padding: 0px 10px 10px 10px;
+    margin: 0px 5px 10px 5px;
+    border: 2px solid black;
+    border-radius: 7px;
+    overflow-wrap: break-word;
+    font-size: 20px;
+    box-shadow: 2px 3px 1px 0.5px #8c8c8c
+}
+
+.note:hover {
+    transform: scale(1.03);
+}
+
+.noteNumber {
+    width: fit-content;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 5px;
+    font-family: "Balsamiq Sans";
+}
+
+.noteContent {
+    padding: 0px;
+    margin: 0px;
+    font-family: "Lexend";
+}
+
+.deleteBtn {
+    position: inherit;
+    margin: 0px;
+    padding: 10px 0px 0px 0px;
+    background-color: transparent;
+    color: rgb(124, 78, 22);
+    border: none;
+    font-size: 20px;
+}
+
+.deleteBtn:hover {
+    color: black;
+}
