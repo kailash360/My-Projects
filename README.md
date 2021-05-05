@@ -10,4 +10,4 @@ There are different categories. For now, here we have
 
 | Project | Host Link |
 | ------ | ------ |
-| Gym Homepge | [https://kailash360.github.io/GymHomepage.github.io/][PlDb] |
+| Gym Homepge | [https://kailash360.github.io/GymHomepage.github.io/] |
