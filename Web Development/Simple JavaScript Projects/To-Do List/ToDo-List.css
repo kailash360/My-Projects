@@ -1,0 +1,54 @@
+.page {
+    align-items: center;
+    background-image: url("bg.jpeg");
+    background-size: cover;
+}
+
+#body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#heading {
+    font-size: 45px;
+    font-family: "Berkshire Swash";
+    color: rgb(177, 210, 240);
+    text-shadow: -1px 0px 0px #000;
+}
+
+#addItemField {
+    font-size: 22px;
+    font-family: "Kurale";
+    background-color: cyan;
+    width: 60%;
+    border-radius: 50px;
+    border: 3px solid rgb(18, 156, 180);
+    padding-left: 15px;
+}
+
+#addButton {
+    font-size: 25px;
+    font-family: 'Delius';
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 0.5%;
+    margin-bottom: 1.5%;
+    border-radius: 5px;
+    background-color: aqua;
+}
+
+.item_styling {
+    width: 840px;
+    background-color: aqua;
+    border-radius: 5px;
+    border: 3px solid rgb(216, 166, 207);
+    padding: 1.5px 8px 1.5px 8px;
+    margin-top: 0px;
+    font-size: 22px;
+    font-family: "Kurale";
+}
+
+.item_styling:hover {
+    transform: scale(1.02);
+}
