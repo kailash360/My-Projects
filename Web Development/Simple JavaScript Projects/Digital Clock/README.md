@@ -3,6 +3,10 @@
 ## Timezones shown
 - Indian Standard Time (IST)
 - Greenwich Mean Time(GMT)
+
+## Host Link
+https://kailash360.github.io/DigitalClock.github.io/
+
 ## Elements used
 - HTML
 - CSS
