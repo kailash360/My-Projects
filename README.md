@@ -7,7 +7,6 @@ There are different categories. For now, here we have
 ## Links
 
 #### Some of my projects and their host links.
-
 | Project | Host Link |
 | ------ | ------ |
 |To-Do List    | https://kailash360.github.io/ToDoList.github.io/     |
