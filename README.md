@@ -1,7 +1,7 @@
 # My Projects
 ### _Categories_
 
-There are different categories. For now, here we have
+For now, I have the following categories
 
 - Web Development </>
 ## Links
