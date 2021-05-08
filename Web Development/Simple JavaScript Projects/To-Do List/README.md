@@ -5,6 +5,9 @@
 - Single click on the task name to mark as done
 - Double click on the task name to remove the task
 
+## Host Link
+https://kailash360.github.io/ToDoList.github.io/
+
 ## Elemets used:
 - HTML
 - CSS
