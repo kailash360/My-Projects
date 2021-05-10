@@ -10,7 +10,7 @@ For now, I have the following categories
 | Project | Host Link |
 | ------ | ------ |
 |Dictionary| https://kailash360.github.io/Dictionary/ |
-|To-Do List    | https://kailash360.github.io/ToDoList.github.io/     |
+|To-Do List    | https://kailash360.github.io/ToDoList/     |
 | Notepad      | https://kailash360.github.io/Notepad.github.io/      |
 |Digital Clock | https://kailash360.github.io/DigitalClock.github.io/ |
 | Gym Homepage | https://kailash360.github.io/GymHomepage.github.io/  |
