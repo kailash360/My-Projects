@@ -7,8 +7,9 @@ Here I have added some projects that I have made using
 
 | Project | Host Link |
 | ------ | ------ |
-|To-Do List    | https://kailash360.github.io/ToDoList.github.io/     |
-| Notepad      | https://kailash360.github.io/Notepad.github.io/      |
+|Dictionary    | https://kailash360.github.io/Dictionary/   |
+|To-Do List    | https://kailash360.github.io/ToDoList/     |
+| Notepad      | https://kailash360.github.io/Notepad/      |
 |Digital Clock | https://kailash360.github.io/DigitalClock.github.io/ |
 | Gym Homepage | https://kailash360.github.io/GymHomepage.github.io/  |
 
