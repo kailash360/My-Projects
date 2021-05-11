@@ -7,7 +7,7 @@
 - Want to delete all the notes? "Cler All" is there
 
 ### Host Link
-https://kailash360.github.io/Notepad.github.io/
+https://kailash360.github.io/Notepad/
 
 ### Elements used
 - HTML
