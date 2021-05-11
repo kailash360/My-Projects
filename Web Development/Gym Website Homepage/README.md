@@ -6,4 +6,4 @@
 
 _This was my first project in the field of Web Development; a simple homepage made from scratch using HTML and CSS only._
 
-Host Link : https://kailash360.github.io/GymHomepage.github.io/
+Host Link : https://kailash360.github.io/GymHomepage/
