@@ -12,5 +12,5 @@ For now, I have the following categories
 |Dictionary| https://kailash360.github.io/Dictionary/ |
 |To-Do List    | https://kailash360.github.io/ToDoList/     |
 | Notepad      | https://kailash360.github.io/Notepad/      |
-|Digital Clock | https://kailash360.github.io/DigitalClock.github.io/ |
+|Digital Clock | https://kailash360.github.io/DigitalClock/ |
 | Gym Homepage | https://kailash360.github.io/GymHomepage.github.io/  |
