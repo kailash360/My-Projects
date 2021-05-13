@@ -1,5 +1,5 @@
 console.log("JS integrated successfully")
-alert("Click anywhere on the screen to play with sound.")
+alert("Click anywhere on the screen to play with an irritating sound.")
 
 //Geting hands of the clock
 let hourHand = document.querySelector(".hourHand")
