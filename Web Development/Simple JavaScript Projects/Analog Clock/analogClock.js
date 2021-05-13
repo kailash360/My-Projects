@@ -1,4 +1,5 @@
 console.log("JS integrated successfully")
+alert("Click anywhere on the screen to play with sound.")
 
 //Geting hands of the clock
 let hourHand = document.querySelector(".hourHand")
