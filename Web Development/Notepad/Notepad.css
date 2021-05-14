@@ -1,3 +1,19 @@
+.navbar {
+    background-color: rgb(92, 92, 255);
+    color: white;
+    margin-top: 0px;
+    padding: 0.1% 0% 0.01% 0%;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.listItem {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 150%;
+}
+
 #input-container {
     width: 600px;
     height: 300px;
