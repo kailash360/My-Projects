@@ -6,6 +6,7 @@ _Here,as a beginner,I have added some simple projects of JavaScript._
 |Project| Host Link| 
 |-------|----------|
 |ToDo List| https://kailash360.github.io/ToDoList.github.io/ |
+|Analog Clock | https://kailash360.github.io/Analog-Clock/ |
 |Digital Clock| https://kailash360.github.io/DigitalClock.github.io/ |
 
 
