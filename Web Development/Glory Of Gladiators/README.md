@@ -12,6 +12,6 @@
 ### 🕹️ How to play?  
 - The enemies come from the right.
 - Defend yourself by jumpimg high enough, at the correct time
-- Use Arrow-Up key to jump
-- Use Arrow-Left to move left, and Arrow-Right to move right
+- Use Arrow-Up key ⬆️ to jump
+- Use Arrow-Left key ⬅️ to move left, and Arrow-Right key ➡️ to move right
 - Don't let your enemies hit you.
