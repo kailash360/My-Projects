@@ -9,6 +9,7 @@ Here I have added some projects that I have made using
 
 | Project | Host Link |
 | ------ | ------ |
+|Glory of Gladiators|                                |
 |Dictionary| https://kailash360.github.io/Dictionary/ |
 |To-Do List    | https://kailash360.github.io/ToDoList/     |
 | Notepad      | https://kailash360.github.io/Notepad/      |
