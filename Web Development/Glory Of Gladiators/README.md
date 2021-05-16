@@ -2,7 +2,7 @@
 
 # Glory of Gladiators 
 
-⚔️ An interesting game that takes you back to the Roman era. 
+⚔️ **An interesting game that takes you back to the Roman era.**
 
 ### 🛡️ Features 
 - As a gladiators, defend yourself from the enemies.
