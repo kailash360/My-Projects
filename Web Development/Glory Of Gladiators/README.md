@@ -15,3 +15,10 @@
 - Use Arrow-Up key ⬆️ to jump
 - Use Arrow-Left key ⬅️ to move left, and Arrow-Right key ➡️ to move right
 - Don't let your enemies hit you.
+
+
+```
+Some bugs still persist in the code.
+I am working on them.
+Drop suggestions,if you have any.
+```
