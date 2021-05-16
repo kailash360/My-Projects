@@ -2,6 +2,9 @@
 
 # Glory of Gladiators 
 
+### Host Link
+> https://kailash360.github.io/Glory-of-Gladiators/
+
 ⚔️ **An interesting game that takes you back to the Roman era.**
 
 ### 🛡️ Features 
