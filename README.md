@@ -3,7 +3,7 @@
 
 For now, I have the following categories
 
-- Web Development </>
+- **Web Development** </>
 ## Links
 
 #### Some of my projects and their host links.
