@@ -7,7 +7,7 @@ A real dictionary to cater all your needs for English vocabulary
 - Different parts of speech for same word enrich your knowledge
 - Synonyms helps you increase your word stock
 
-### Host link
+### 🌐 _Host link_
 > https://kailash360.github.io/Dictionary/
 
 ### _Elements used_
