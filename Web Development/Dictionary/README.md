@@ -1,7 +1,7 @@
-# Dictionary
+# Dictionary 
 A real dictionary to cater all your needs for English vocabulary
 
-### _Features_
+### 📚 _Features_ 
 - Search the meaning of any English word you want
 - Get phonetics to enhance your speaking skills
 - Different parts of speech for same word enrich your knowledge
