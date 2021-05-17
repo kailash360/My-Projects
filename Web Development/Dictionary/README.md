@@ -1,4 +1,4 @@
-# Dictionary 
+# 📕 Dictionary 
 A real dictionary to cater all your needs for English vocabulary
 
 ### 📚 _Features_ 
