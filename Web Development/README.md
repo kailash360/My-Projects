@@ -1,11 +1,11 @@
-# Web development
+# Web development 🌐
 Here I have added some projects that I have made using 
 - HTML
 - CSS
 - JavaScript
 - Bootstrap
 - REST API
-### Some of my projects and their host links.
+### Some of my projects and their host links
 
 | Project | Host Link |
 | ------ | ------ |
