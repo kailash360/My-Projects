@@ -2,6 +2,9 @@
 
 # Glory of Gladiators 
 
+### 🌐 Host Link
+> https://kailash360.github.io/Glory-of-Gladiators/
+
 ⚔️ **An interesting game that takes you back to the Roman era.**
 
 ### 🛡️ Features 
@@ -16,6 +19,11 @@
 - Use Arrow-Left key ⬅️ to move left, and Arrow-Right key ➡️ to move right
 - Don't let your enemies hit you.
 
+### Elements used
+- HTML
+- CSS
+- JavaScript
+- Additional media
 
 ```
 Some bugs still persist in the code.
