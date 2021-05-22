@@ -10,6 +10,8 @@ A real dictionary to cater all your needs for English vocabulary
 ### 🌐 _Host link_
 > https://kailash360.github.io/Dictionary/
 
+Don't forget to share with your friends 😃
+
 ### _Elements used_
 - HTML
 - JavaScript
