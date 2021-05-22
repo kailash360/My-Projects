@@ -91,6 +91,8 @@
     margin: 0px 5px 10px 5px;
     border: 2px solid black;
     border-radius: 7px;
+    overflow-y: auto;
+    word-break: break-word;
     overflow-wrap: break-word;
     font-size: 20px;
     box-shadow: 2px 3px 1px 0.5px #8c8c8c
