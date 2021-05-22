@@ -78,11 +78,12 @@
 
 #note-container {
     position: relative;
-    left: 350px;
+    left: 20vw;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     max-width: 800px;
+    min-width: 700px;
     margin-top: 25px;
 }
 
