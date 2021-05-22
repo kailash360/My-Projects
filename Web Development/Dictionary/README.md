@@ -12,7 +12,7 @@ A real dictionary to cater all your needs for English vocabulary
 
 Don't forget to share with your friends 😃
 
-### _Elements used_
+### 💡 _Elements used_
 - HTML
 - JavaScript
 - Bootstrap
