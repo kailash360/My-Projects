@@ -1,3 +1,8 @@
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
 .navbar {
     background-color: rgb(92, 92, 255);
     color: white;
