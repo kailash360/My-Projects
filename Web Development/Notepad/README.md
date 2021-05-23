@@ -9,7 +9,7 @@
 ### Host Link
 > https://kailash360.github.io/Notepad/
 
-Don't forget to share with your friends 😃
+Supported for both-smartphone and desktop. Don't forget to share with your friends 😃
 
 ### Elements used
 - HTML
