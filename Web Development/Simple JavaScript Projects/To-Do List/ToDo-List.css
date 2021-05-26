@@ -52,3 +52,12 @@
 .item_styling:hover {
     transform: scale(1.02);
 }
+
+@media screen and (max-width: 450px) {
+    #addItemField {
+        width: 85%;
+    }
+    .item_styling {
+        width: 80vw;
+    }
+}
