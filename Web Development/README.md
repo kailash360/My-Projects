@@ -11,6 +11,7 @@ Here I have added some projects that I have made using
 | ------ | ------ |
 |Glory of Gladiators| https://kailash360.github.io/Glory-of-Gladiators/ |
 |Dictionary| https://kailash360.github.io/Dictionary/ |
+| Calculator | https://kailash360.github.io/Calculator/ |
 |To-Do List    | https://kailash360.github.io/ToDoList/     |
 | Notepad      | https://kailash360.github.io/Notepad/      |
 | Library UI | https://kailash360.github.io/Library-UI/ |
