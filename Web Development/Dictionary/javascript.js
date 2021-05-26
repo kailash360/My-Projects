@@ -1,4 +1,7 @@
 console.log("JavaScript file attatched succesfully")
+
+alert("Made by 𝑲𝒂𝒊𝒍𝒂𝒔𝒉 𝑲𝒆𝒋𝒓𝒊𝒘𝒂𝒍")
+
 var wordField = document.getElementById("word")
 var btn = document.getElementById("btn")
 var wordContainer = document.getElementById("wordContainer")
