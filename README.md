@@ -9,6 +9,7 @@ For now, I have the following categories
 #### Some of my projects and their host links.
 | Project | Host Link |
 | ------ | ------ |
+| NEWS Website | https://news-website-project.herokuapp.com/ |
 | Glory of Gladiators | https://kailash360.github.io/Glory-of-Gladiators/ |
 |Dictionary| https://kailash360.github.io/Dictionary/ |
 | Calculator | https://kailash360.github.io/Calculator/ |
