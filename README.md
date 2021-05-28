@@ -7,14 +7,14 @@ For now, I have the following categories
 ## Links
 
 #### Some of my projects and their host links.
-| Project | Host Link |
-| ------ | ------ |
-| NEWS Website | https://news-website-project.herokuapp.com/ |
-| Glory of Gladiators | https://kailash360.github.io/Glory-of-Gladiators/ |
-|Dictionary| https://kailash360.github.io/Dictionary/ |
-| Calculator | https://kailash360.github.io/Calculator/ |
-|To-Do List    | https://kailash360.github.io/ToDoList/     |
-| Notepad      | https://kailash360.github.io/Notepad/      |
+| Project | Host Link | Source Code |
+| ------ | ------ | -------- | 
+| NEWS Website | https://news-website-project.herokuapp.com/ | [Click Here](https://github.com/kailash360/news) |
+| Glory of Gladiators | https://kailash360.github.io/Glory-of-Gladiators/ | [Click Here](https://github.com/kailash360/Glory-of-Gladiators) |
+|Dictionary| https://kailash360.github.io/Dictionary/ | [Click Here](https://github.com/kailash360/Dictionary) |
+| Calculator | https://kailash360.github.io/Calculator/ | [Click Here](https://github.com/kailash360/Calculator) | 
+|To-Do List    | https://kailash360.github.io/ToDoList/     | [Click Here](https://github.com/kailash360/ToDoList) |
+| Notepad      | https://kailash360.github.io/Notepad/      | [Click Here](https://github.com/kailash360/Notepad) |
 | Library UI   | https://kailash360.github.io/Library-UI/ |
 | Analog Clock | https://kailash360.github.io/Analog-Clock/ |
 |Digital Clock | https://kailash360.github.io/DigitalClock/ |
