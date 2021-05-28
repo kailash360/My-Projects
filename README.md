@@ -19,4 +19,4 @@ For now, I have the following categories
 | Analog Clock | https://kailash360.github.io/Analog-Clock/ | [Click Here](https://github.com/kailash360/Analog-Clock) |
 |Digital Clock | https://kailash360.github.io/DigitalClock/ | [Click Here](https://github.com/kailash360/DigitalClock) |
 |Counter       | https://kailash360.github.io/Counter/ | [Click Here](https://github.com/kailash360/Counter) |
-| Gym Homepage | https://kailash360.github.io/GymHomepage/  |
+| Gym Homepage | https://kailash360.github.io/GymHomepage/  | [Click Here](https://github.com/kailash360/GymHomepage) |
