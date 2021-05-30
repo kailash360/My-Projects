@@ -25,8 +25,9 @@
 - JavaScript
 - Additional media
 
+__Drop suggestions,if you have any.__
+
 ```
 Some bugs still persist in the code.
 I am working on them.
-Drop suggestions,if you have any.
 ```
