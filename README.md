@@ -4,6 +4,7 @@
 For now, I have the following categories
 
 - **Web Development** </>
+
 ## Links
 
 #### Some of my projects and their host links.
@@ -20,3 +21,8 @@ For now, I have the following categories
 |Digital Clock | https://kailash360.github.io/DigitalClock/ | [Click Here](https://github.com/kailash360/DigitalClock) |
 |Counter       | https://kailash360.github.io/Counter/ | [Click Here](https://github.com/kailash360/Counter) |
 | Gym Homepage | https://kailash360.github.io/GymHomepage/  | [Click Here](https://github.com/kailash360/GymHomepage) |
+
+
+```
+Don't forget to star this repository. 😀
+```
