@@ -5,10 +5,10 @@ For now, I have the following categories
 
 - **Web Development** </>
 
-## Links
+## ⚓ Links
 
-#### Some of my projects and their host links.
-| Project | Host Link | Source Code |
+### Some of my projects and their host links.
+| Project Name | Host Link | GitHub Repository |
 | ------ | ------ | -------- | 
 | NEWS Website | https://news-website-project.herokuapp.com/ | [Click Here](https://github.com/kailash360/news) |
 | Glory of Gladiators | https://kailash360.github.io/Glory-of-Gladiators/ | [Click Here](https://github.com/kailash360/Glory-of-Gladiators) |
