@@ -6,7 +6,7 @@
 ### ⚓ Links
 
 #### ✨ My projects and their host links. ✨
-| Project Name | Host Link | GitHub Repository |
+| Project Name | Host Link | Source Code |
 | ------ | ------ | -------- | 
 | NEWS Website | https://news-website-project.herokuapp.com/ | [Click Here](https://github.com/kailash360/news) |
 | Glory of Gladiators | https://kailash360.github.io/Glory-of-Gladiators/ | [Click Here](https://github.com/kailash360/Glory-of-Gladiators) |
