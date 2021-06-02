@@ -1,13 +1,11 @@
 # My Projects
-### 🧱 _Categories_
+## 🧱 _Categories_
 
-For now, I have the following categories
+- ## **Web Development** 
 
-- **Web Development** </>
+### ⚓ Links
 
-## ⚓ Links
-
-### Some of my projects and their host links.
+#### ✨ My projects and their host links. ✨
 | Project Name | Host Link | GitHub Repository |
 | ------ | ------ | -------- | 
 | NEWS Website | https://news-website-project.herokuapp.com/ | [Click Here](https://github.com/kailash360/news) |
@@ -23,7 +21,8 @@ For now, I have the following categories
 | Pulisher's Website <br> (with ReactJS) | https://kailash360.github.io/Publisher-Website/ | [Click Here](https://github.com/kailash360/Publisher-Website) |
 | Gym Homepage | https://kailash360.github.io/GymHomepage/  | [Click Here](https://github.com/kailash360/GymHomepage) |
 
-
 ```
 Don't forget to star this repository. 😀
 ```
+
+
