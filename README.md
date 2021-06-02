@@ -1,5 +1,5 @@
 # My Projects
-### _Categories_
+### 🧱 _Categories_
 
 For now, I have the following categories
 
